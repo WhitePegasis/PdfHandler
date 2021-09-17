@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PDFHandler</string>
+    <string name="select_an_image_first">Select an Image First</string>
+    <string name="make_pdf">Make PDF</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="click_image">Click Image</string>
+    <string name="select_image_s">Select Image(s)</string>
+    <string name="todo">TODO</string>
+</resources>
